@@ -1,4 +1,6 @@
-## Gorillaz Band page( [najibels.github.io](najibels.github.io))
+## Gorillaz Band page
+
+#Go to najibels.github.io to access the page
 
 
 The gorillaz are one of my faviorte bands of alltime so I deciced to make a webpage dedicated to them for this assignment and my cpastone. I plan adding much more pages for capstone and more functionality.
